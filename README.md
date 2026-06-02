@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/purest-delight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Purest Delight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/purest-delight/) |
+| **Get License** | [Official Music Licensing for Purest Delight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/purest-delight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire in the way you breathe
+> A kind of magic that I want to keep
+> We're getting closer as the shadows fall
+> This purest delight is answering the call
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
