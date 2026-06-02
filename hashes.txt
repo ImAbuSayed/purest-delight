@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Purest Delight
+
+This log tracks the cryptographic history and versioning for the song **Purest Delight** (purest-delight).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T13:50:14.631000 | `v1` | `819e2482420b64c87b91175178c9cbc11fd28c3262a60be2a17b109eecf33f88` | `c5a56f56f1b81d00aa27e55591a4b4cb1e0d864661fabc52d25baed78283b8a3` | `2026-06-02_purest-delight-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

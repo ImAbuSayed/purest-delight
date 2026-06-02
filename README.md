@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/purest-delight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Purest Delight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/purest-delight/) |
+| **Get License** | [Secure Licensing Rights for Purest Delight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/purest-delight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `819e2482420b64c87b91175178c9cbc11fd28c3262a60be2a17b109eecf33f88` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
